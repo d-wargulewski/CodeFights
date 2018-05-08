@@ -1,0 +1,7 @@
+C:\git\CodeFights\CodeFights\bin\Debug\CodeFights.exe.config
+C:\git\CodeFights\CodeFights\bin\Debug\CodeFights.exe
+C:\git\CodeFights\CodeFights\bin\Debug\CodeFights.pdb
+C:\git\CodeFights\CodeFights\obj\Debug\CodeFights.csprojResolveAssemblyReference.cache
+C:\git\CodeFights\CodeFights\obj\Debug\CodeFights.csproj.CoreCompileInputs.cache
+C:\git\CodeFights\CodeFights\obj\Debug\CodeFights.exe
+C:\git\CodeFights\CodeFights\obj\Debug\CodeFights.pdb
